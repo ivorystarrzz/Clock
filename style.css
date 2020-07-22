@@ -12,7 +12,6 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    /* background: #060a1f; */
     background: white;
 }
 
@@ -48,7 +47,7 @@ body{
     display: block;
     width: 100px;
     height: 80px;
-    background: #71a95a;
+    background: #8ac6d1;
     color: #fff;
     font-weight: 300;
     display: flex;
@@ -66,7 +65,7 @@ body{
     font-weight: 500;
     z-index: 9;
     box-shadow: none;
-    background: #71a95a;
+    background: #8ac6d1;
     text-transform: uppercase;
 }
 
